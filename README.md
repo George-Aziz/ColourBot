@@ -1,5 +1,5 @@
 # ColourBot
-This has been done in collaboration with https://github.com/Jackson-Greenee
+This has been done in collaboration with https://github.com/Jackson-Greene
 
 A discord bot written within python that allows users to change their name colour
 If you wish to use this code simply add your own bot token.
