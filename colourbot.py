@@ -3,7 +3,6 @@ from discord.utils import get
 import asyncio
 
 client = discord.Client()
-#BOT_TOKEN = 'INSERT TOKEN OF BOT HERE'
 BOT_TOKEN = 'INSERT YOUR BOT TOKEN HERE'
 colour_map = {"red": "#FF2D00", "orange": "#FF7B00", "yellow": "#F5CD00", "green": "5EF500", "blue": "0073F5", "purple": "8C00F5", 
               "pink": "F500CD"} #List of basic colours if user inputs with no hex code (Add more if you want)
